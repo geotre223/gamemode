@@ -1,9 +1,0 @@
-name: GameMode
-author: geotre223
-api: 4.0.0
-main: geotre223\Main
-version: 1.0.0
-
-permissions:
-  gm.use:
-    default: op
